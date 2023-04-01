@@ -1,0 +1,11 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "author": "Akshay",
+  "license": "ISC"
+}
